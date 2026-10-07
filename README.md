@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-07 | [Suffix Automaton and Suffix Array Toolkit for Large-Scale String Analysis](suffix-automaton-array-toolkit/) | Suffix array, LCP, suffix automaton, BWT and substring analyses with pattern search and benchmarks. |
 | 2026-10-07 | [Quantum Circuit State-Vector Simulator with Grover's Search and QFT](quantum-circuit-statevector-grover-qft/) | NumPy state-vector simulator with controlled gates, measurement, QFT, Grover search and phase estimation. |
 | 2026-10-06 | [Federated Averaging Simulator with Byzantine-Robust Aggregation](federated-averaging-byzantine-robust/) | FedAvg simulation with Krum, Multi-Krum, trimmed mean, median and geometric median defences against four Byzantine attacks. |
 | 2026-10-06 | [Persistent Segment Tree Library with Time-Travel Range Queries](persistent-segment-tree-time-travel/) | Versioned segment trees with lazy range add, range k-th queries and timestamped history queries. |
