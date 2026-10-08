@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-08 | [Differential Privacy Toolkit: Laplace, Gaussian and Exponential Mechanisms with Privacy Accounting](differential-privacy-toolkit-accounting/) | Laplace, Gaussian, exponential and sparse-vector mechanisms with basic, advanced and Renyi-DP accounting and a DP-SGD trainer. |
 | 2026-10-08 | [Deep Q-Learning from Scratch in NumPy with Experience Replay on Gridworld Mazes](deep-q-learning-gridworld-mazes/) | NumPy DQN with Double-DQN targets, uniform and prioritised replay and a BFS-verified maze environment. |
 | 2026-10-07 | [Suffix Automaton and Suffix Array Toolkit for Large-Scale String Analysis](suffix-automaton-array-toolkit/) | Suffix array, LCP, suffix automaton, BWT and substring analyses with pattern search and benchmarks. |
 | 2026-10-07 | [Quantum Circuit State-Vector Simulator with Grover's Search and QFT](quantum-circuit-statevector-grover-qft/) | NumPy state-vector simulator with controlled gates, measurement, QFT, Grover search and phase estimation. |
