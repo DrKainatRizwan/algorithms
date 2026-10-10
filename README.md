@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-10 | [Bloom Filter, Count-Min Sketch and HyperLogLog Streaming Analytics Library](bloom-filter-count-min-hyperloglog/) | Bloom, counting and scalable Bloom filters, Count-Min sketch with heavy hitters and HyperLogLog, with error benchmarks on Zipf streams. |
 | 2026-10-10 | [Monte Carlo Tree Search Engine with UCT for Connect-Four](monte-carlo-tree-search-connect-four/) | UCT Monte Carlo Tree Search with a solver and tactical rollouts on a bitboard Connect-Four, benchmarked against alpha-beta. |
 | 2026-10-09 | [Homomorphic Encryption Playground: Paillier Cryptosystem and Private Aggregation](paillier-homomorphic-aggregation/) | Paillier cryptosystem with CRT decryption, fixed-point encoding and private sum, gradient averaging, voting and masking protocols. |
 | 2026-10-09 | [Max-Flow Min-Cut Suite: Edmonds-Karp, Dinic and Push-Relabel with Benchmarks](max-flow-min-cut-suite/) | Edmonds-Karp, Dinic and push-relabel max-flow solvers with min-cut certificates, matching reductions and benchmarks. |
