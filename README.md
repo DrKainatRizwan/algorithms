@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-13 | [Variational Quantum Eigensolver Simulator for Small Molecular Hamiltonians](variational-quantum-eigensolver-molecular/) | Variational quantum eigensolver with a reduced H2 Hamiltonian, spin chains, parameter-shift gradients, five optimisers, shot noise and ADAPT-VQE. |
 | 2026-10-12 | [Raft Consensus Algorithm Simulator with Leader Election and Log Replication](raft-consensus-leader-election/) | Deterministic Raft simulator with leader election, log replication, crash and partition injection, and runtime safety-invariant checking. |
 | 2026-10-12 | [Anomaly-Based Intrusion Detection with Isolation Forest Implemented from Scratch](isolation-forest-intrusion-detection/) | Isolation Forest and Extended Isolation Forest with a flow-level intrusion detector, synthetic attack traffic and per-flow explanations. |
 | 2026-10-11 | [Simulated Annealing vs Genetic Algorithm vs Tabu Search for the Travelling Salesman Problem](tsp-annealing-genetic-tabu/) | Simulated annealing, genetic algorithm (OX/ERX) and tabu search with 2-opt, Or-opt and Held-Karp baselines, benchmarked on random TSP instances. |
