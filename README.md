@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-14 | [Elliptic Curve Cryptography from Scratch: ECDH and ECDSA over Finite Fields](elliptic-curve-ecdh-ecdsa/) | Elliptic curve arithmetic with Jacobian coordinates and wNAF, ECDH, ECIES, RFC 6979 ECDSA with key recovery, and discrete-log and nonce-reuse attacks. |
 | 2026-10-14 | [Policy Gradient (REINFORCE and A2C) in NumPy for CartPole-Style Control](policy-gradient-reinforce-a2c/) | REINFORCE with baselines and GAE-based A2C with hand-written backprop, a CartPole simulator, vectorised environments and benchmarks. |
 | 2026-10-13 | [Fenwick Trees, Sparse Tables and Sqrt Decomposition: Range Query Benchmark Suite](fenwick-sparse-table-sqrt/) | Fenwick trees (point, range, 2-D), sparse and disjoint sparse tables, sqrt decomposition and Mo's algorithm with benchmarks. |
 | 2026-10-13 | [Variational Quantum Eigensolver Simulator for Small Molecular Hamiltonians](variational-quantum-eigensolver-molecular/) | Variational quantum eigensolver with a reduced H2 Hamiltonian, spin chains, parameter-shift gradients, five optimisers, shot noise and ADAPT-VQE. |
