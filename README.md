@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-16 | [Interval Trees and Segment Trees for Computational Geometry Queries](interval-segment-tree-geometry/) | Centred interval tree, augmented interval treap and segment trees powering sweeps for rectangle union area, intersection reporting, window queries and skylines. |
 | 2026-10-16 | [Fast Gradient Sign and PGD Adversarial Attacks with Adversarial Training in NumPy](fgsm-pgd-adversarial-training/) | FGSM, PGD (L-inf/L2, targeted), MI-FGSM and adversarial training on a NumPy MLP with exact input gradients and robustness benchmarks. |
 | 2026-10-15 | [A*, Jump Point Search and D* Lite Pathfinding Benchmark on Large Grids](astar-jps-dstar-lite-grids/) | A* (plain and weighted), Jump Point Search and incremental D* Lite on 8-connected grids with map generators, navigation in unknown terrain and benchmarks. |
 | 2026-10-15 | [Zero-Trust Access Policy Engine with Continuous Trust Scoring and Drift Detection](zero-trust-policy-engine/) | Attribute-based policy engine with log-odds trust decay, Page-Hinkley/CUSUM drift detection, PSI and KS tests, and a hash-chained audit log. |
