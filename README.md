@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-17 | [Hungarian Algorithm and Auction Algorithm for Optimal Assignment](hungarian-auction-assignment/) | Hungarian and epsilon-scaling auction solvers with dual certificates, bottleneck assignment, gated tracking association and benchmarks. |
 | 2026-10-17 | [Shamir Secret Sharing and Secure Multi-Party Computation Sum Protocol](shamir-secret-sharing-mpc-sum/) | Shamir sharing with Feldman verification, Berlekamp-Welch error correction, share refresh, dropout-tolerant secure sums and a BGW arithmetic engine. |
 | 2026-10-16 | [Interval Trees and Segment Trees for Computational Geometry Queries](interval-segment-tree-geometry/) | Centred interval tree, augmented interval treap and segment trees powering sweeps for rectangle union area, intersection reporting, window queries and skylines. |
 | 2026-10-16 | [Fast Gradient Sign and PGD Adversarial Attacks with Adversarial Training in NumPy](fgsm-pgd-adversarial-training/) | FGSM, PGD (L-inf/L2, targeted), MI-FGSM and adversarial training on a NumPy MLP with exact input gradients and robustness benchmarks. |
