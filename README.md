@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-18 | [B+ Tree Storage Engine with Range Scans and Bulk Loading](b-plus-tree-storage-engine/) | B+ tree with borrow/merge deletion, range scans, bottom-up bulk loading, page serialisation, an LRU buffer-pool simulator and a WAL-backed key-value store. |
 | 2026-10-18 | [Multi-Armed Bandits Lab: Epsilon-Greedy, UCB1, Thompson Sampling and EXP3](multi-armed-bandits-lab/) | Epsilon-greedy, softmax, UCB1, UCB-Tuned, Thompson sampling, EXP3 and sliding-window UCB with stochastic, switching and adversarial environments and regret bounds. |
 | 2026-10-17 | [Hungarian Algorithm and Auction Algorithm for Optimal Assignment](hungarian-auction-assignment/) | Hungarian and epsilon-scaling auction solvers with dual certificates, bottleneck assignment, gated tracking association and benchmarks. |
 | 2026-10-17 | [Shamir Secret Sharing and Secure Multi-Party Computation Sum Protocol](shamir-secret-sharing-mpc-sum/) | Shamir sharing with Feldman verification, Berlekamp-Welch error correction, share refresh, dropout-tolerant secure sums and a BGW arithmetic engine. |
