@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-19 | [Malware Byte-to-Image Feature Extraction and k-NN Family Classifier](malware-byte-image-knn/) | Byte-to-image conversion, GLCM/LBP/entropy features and a k-NN classifier with KD-tree on synthetic malware families, with evasion robustness tests. |
 | 2026-10-18 | [B+ Tree Storage Engine with Range Scans and Bulk Loading](b-plus-tree-storage-engine/) | B+ tree with borrow/merge deletion, range scans, bottom-up bulk loading, page serialisation, an LRU buffer-pool simulator and a WAL-backed key-value store. |
 | 2026-10-18 | [Multi-Armed Bandits Lab: Epsilon-Greedy, UCB1, Thompson Sampling and EXP3](multi-armed-bandits-lab/) | Epsilon-greedy, softmax, UCB1, UCB-Tuned, Thompson sampling, EXP3 and sliding-window UCB with stochastic, switching and adversarial environments and regret bounds. |
 | 2026-10-17 | [Hungarian Algorithm and Auction Algorithm for Optimal Assignment](hungarian-auction-assignment/) | Hungarian and epsilon-scaling auction solvers with dual certificates, bottleneck assignment, gated tracking association and benchmarks. |
