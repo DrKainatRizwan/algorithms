@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-20 | [Lock-Free-Style Concurrent Skip List with Probabilistic Balancing Analysis](concurrent-skip-list-balancing/) | Indexable skip list with order statistics, a CAS-based lock-free-style concurrent list, hash-derived levels and balance analysis against Pugh's bounds. |
 | 2026-10-20 | [Q-Learning Traffic Signal Controller on a Simulated Intersection Network](q-learning-traffic-signal-control/) | Queue-based grid traffic simulator with Q-learning, Double Q and Expected SARSA signal agents compared against fixed-time, longest-queue and max-pressure control. |
 | 2026-10-19 | [Fast Fourier Transform Library with Polynomial Multiplication and Big-Integer Arithmetic](fft-polynomial-bigint-multiplication/) | Radix-2 FFT, Bluestein, three-prime NTT, polynomial arithmetic with Newton division, wildcard matching and FFT-based big-integer multiplication with benchmarks. |
 | 2026-10-19 | [Malware Byte-to-Image Feature Extraction and k-NN Family Classifier](malware-byte-image-knn/) | Byte-to-image conversion, GLCM/LBP/entropy features and a k-NN classifier with KD-tree on synthetic malware families, with evasion robustness tests. |
