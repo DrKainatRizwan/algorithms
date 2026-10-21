@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-21 | [Model Inversion and Membership Inference Attack Simulator with Defenses](model-inversion-membership-inference/) | Shadow, calibrated, label-only and threshold membership inference plus white-box and black-box model inversion, evaluated against L2, early stopping, DP-SGD and output-perturbation defences. |
 | 2026-10-20 | [Lock-Free-Style Concurrent Skip List with Probabilistic Balancing Analysis](concurrent-skip-list-balancing/) | Indexable skip list with order statistics, a CAS-based lock-free-style concurrent list, hash-derived levels and balance analysis against Pugh's bounds. |
 | 2026-10-20 | [Q-Learning Traffic Signal Controller on a Simulated Intersection Network](q-learning-traffic-signal-control/) | Queue-based grid traffic simulator with Q-learning, Double Q and Expected SARSA signal agents compared against fixed-time, longest-queue and max-pressure control. |
 | 2026-10-19 | [Fast Fourier Transform Library with Polynomial Multiplication and Big-Integer Arithmetic](fft-polynomial-bigint-multiplication/) | Radix-2 FFT, Bluestein, three-prime NTT, polynomial arithmetic with Newton division, wildcard matching and FFT-based big-integer multiplication with benchmarks. |
