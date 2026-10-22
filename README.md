@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-22 | [Convex Hull, Delaunay Triangulation and Voronoi Diagram Algorithms](convex-hull-delaunay-voronoi/) | Monotone chain, Graham, Jarvis and Quickhull hulls, Bowyer-Watson Delaunay triangulation, clipped Voronoi diagrams with Lloyd relaxation, and Delaunay-based MST and nearest-neighbour tools. |
 | 2026-10-22 | [Quantum Key Distribution BB84 Protocol Simulator with Eavesdropper Detection](quantum-key-distribution-bb84/) | BB84 simulation with lossy noisy channels, intercept-resend attacks, Cascade reconciliation and Toeplitz privacy amplification with finite-key bounds. |
 | 2026-10-21 | [Strongly Connected Components, 2-SAT Solver and Implication Graph Toolkit](scc-2sat-implication-graph/) | Tarjan, Kosaraju and Gabow SCC algorithms, a 2-SAT solver with conflict certificates, backbone and model enumeration, and bitset reachability tools. |
 | 2026-10-21 | [Model Inversion and Membership Inference Attack Simulator with Defenses](model-inversion-membership-inference/) | Shadow, calibrated, label-only and threshold membership inference plus white-box and black-box model inversion, evaluated against L2, early stopping, DP-SGD and output-perturbation defences. |
