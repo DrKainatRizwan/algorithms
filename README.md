@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-23 | [Rabin-Karp, KMP, Z-Algorithm and Aho-Corasick: Multi-Pattern Search Engine](multi-pattern-string-search-engine/) | One-pass Aho-Corasick, KMP, Z and Rabin-Karp matchers with overlap policies, whole-word search, redaction and trace benchmarks. |
 | 2026-10-23 | [Proximal Policy Optimization in Pure NumPy on Continuous Control Toy Tasks](ppo-numpy-continuous-control/) | PPO-Clip with GAE, hand-written Gaussian actor-critic backprop, observation normalisation and KL early stopping on point-mass, reaching and pendulum tasks. |
 | 2026-10-22 | [Convex Hull, Delaunay Triangulation and Voronoi Diagram Algorithms](convex-hull-delaunay-voronoi/) | Monotone chain, Graham, Jarvis and Quickhull hulls, Bowyer-Watson Delaunay triangulation, clipped Voronoi diagrams with Lloyd relaxation, and Delaunay-based MST and nearest-neighbour tools. |
 | 2026-10-22 | [Quantum Key Distribution BB84 Protocol Simulator with Eavesdropper Detection](quantum-key-distribution-bb84/) | BB84 simulation with lossy noisy channels, intercept-resend attacks, Cascade reconciliation and Toeplitz privacy amplification with finite-key bounds. |
