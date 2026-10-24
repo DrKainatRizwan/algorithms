@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-24 | [Robust Federated Learning with Secure Aggregation and Client Dropout Handling](robust-federated-secure-aggregation-dropout/) | Pairwise-masking secure aggregation with Shamir-based dropout recovery, fixed-point encoding and a bucketed-median robust federated logistic-regression trainer. |
 | 2026-10-23 | [Rabin-Karp, KMP, Z-Algorithm and Aho-Corasick: Multi-Pattern Search Engine](multi-pattern-string-search-engine/) | One-pass Aho-Corasick, KMP, Z and Rabin-Karp matchers with overlap policies, whole-word search, redaction and trace benchmarks. |
 | 2026-10-23 | [Proximal Policy Optimization in Pure NumPy on Continuous Control Toy Tasks](ppo-numpy-continuous-control/) | PPO-Clip with GAE, hand-written Gaussian actor-critic backprop, observation normalisation and KL early stopping on point-mass, reaching and pendulum tasks. |
 | 2026-10-22 | [Convex Hull, Delaunay Triangulation and Voronoi Diagram Algorithms](convex-hull-delaunay-voronoi/) | Monotone chain, Graham, Jarvis and Quickhull hulls, Bowyer-Watson Delaunay triangulation, clipped Voronoi diagrams with Lloyd relaxation, and Delaunay-based MST and nearest-neighbour tools. |
