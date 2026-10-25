@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-25 | [Linear Programming Solver: Simplex Method with Bland's Rule and Duality](simplex-linear-programming-duality/) | Two-phase tableau and revised simplex with Dantzig, Bland and hybrid rules, duality and Farkas certificates, sensitivity ranging, and flow, game and regression applications. |
 | 2026-10-25 | [Blockchain Proof-of-Work Simulator with Merkle Trees and Fork Resolution](blockchain-proof-of-work-merkle/) | Proof-of-work chain with Merkle proofs, retargeting, heaviest-chain reorgs, a latency-aware network simulator, and double-spend and selfish-mining analysis. |
 | 2026-10-24 | [Minimum Spanning Tree Suite: Kruskal, Prim and Boruvka with Union-Find Variants](minimum-spanning-tree-suite/) | Kruskal, Prim, Boruvka and reverse-delete over twelve union-find variants, with optimality certificates, bottleneck paths, second-best MST and edge sensitivity. |
 | 2026-10-24 | [Robust Federated Learning with Secure Aggregation and Client Dropout Handling](robust-federated-secure-aggregation-dropout/) | Pairwise-masking secure aggregation with Shamir-based dropout recovery, fixed-point encoding and a bucketed-median robust federated logistic-regression trainer. |
