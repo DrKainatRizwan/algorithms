@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-27 | [Dynamic Programming Masterclass: Knapsack, Edit Distance, Matrix Chain and Bitmask DP](dynamic-programming-masterclass-suite/) | Knapsack variants, edit distance with scripts, Hirschberg LCS, interval DP with Knuth's speed-up and bitmask DP (Held-Karp, assignment, set cover), validated against brute force. |
 | 2026-10-27 | [Quantum Approximate Optimization Algorithm (QAOA) Simulator for Max-Cut](qaoa-maxcut-simulator/) | QAOA state-vector simulator for Max-Cut with adjoint gradients, INTERP warm starts, closed-form p=1 checks and classical baselines. |
 | 2026-10-26 | [LRU, LFU and ARC Cache Algorithms with Trace-Driven Hit-Rate Benchmarks](cache-replacement-lru-lfu-arc/) | FIFO, CLOCK, LRU, O(1) LFU, 2Q and ARC with Belady's OPT bound, workload generators and trace-driven hit-rate benchmarks. |
 | 2026-10-26 | [Data Poisoning Attacks and Robust Training for Logistic Regression](data-poisoning-robust-logistic-regression/) | Label-flip and gradient-based poisoning attacks with influence functions, defended by TRIM, sphere/slab filtering, k-NN sanitisation and trimmed-gradient training. |
