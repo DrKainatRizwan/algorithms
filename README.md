@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-28 | [Network Packet Classifier with Trie-Based Firewall Rule Matching](packet-classifier-trie-firewall/) | Linear, hierarchical-trie, tuple-space and HiCuts packet classifiers for five-tuple firewall rules, with shadowing and conflict analysis and lookup benchmarks. |
 | 2026-10-28 | [Bayesian Optimization from Scratch with Gaussian Process Surrogates](bayesian-optimization-gaussian-process/) | Gaussian process regression with ARD Matern/RBF kernels, marginal-likelihood fitting, EI/PI/LCB acquisitions and constant-liar batches, benchmarked against random search. |
 | 2026-10-27 | [Dynamic Programming Masterclass: Knapsack, Edit Distance, Matrix Chain and Bitmask DP](dynamic-programming-masterclass-suite/) | Knapsack variants, edit distance with scripts, Hirschberg LCS, interval DP with Knuth's speed-up and bitmask DP (Held-Karp, assignment, set cover), validated against brute force. |
 | 2026-10-27 | [Quantum Approximate Optimization Algorithm (QAOA) Simulator for Max-Cut](qaoa-maxcut-simulator/) | QAOA state-vector simulator for Max-Cut with adjoint gradients, INTERP warm starts, closed-form p=1 checks and classical baselines. |
