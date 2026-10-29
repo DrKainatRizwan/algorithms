@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-29 | [Particle Swarm and Differential Evolution Optimizers on Benchmark Functions](particle-swarm-differential-evolution/) | Vectorised PSO (inertia, constriction, ring and von Neumann topologies) and DE (five strategies, jDE adaptation) with a benchmark suite, equal-budget comparison harness and rank-sum test. |
 | 2026-10-28 | [Network Packet Classifier with Trie-Based Firewall Rule Matching](packet-classifier-trie-firewall/) | Linear, hierarchical-trie, tuple-space and HiCuts packet classifiers for five-tuple firewall rules, with shadowing and conflict analysis and lookup benchmarks. |
 | 2026-10-28 | [Bayesian Optimization from Scratch with Gaussian Process Surrogates](bayesian-optimization-gaussian-process/) | Gaussian process regression with ARD Matern/RBF kernels, marginal-likelihood fitting, EI/PI/LCB acquisitions and constant-liar batches, benchmarked against random search. |
 | 2026-10-27 | [Dynamic Programming Masterclass: Knapsack, Edit Distance, Matrix Chain and Bitmask DP](dynamic-programming-masterclass-suite/) | Knapsack variants, edit distance with scripts, Hirschberg LCS, interval DP with Knuth's speed-up and bitmask DP (Held-Karp, assignment, set cover), validated against brute force. |
