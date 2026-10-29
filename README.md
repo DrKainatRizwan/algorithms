@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-10-29 | [Huffman, LZ77 and Arithmetic Coding Compression Suite](huffman-lz77-arithmetic-compression/) | Canonical Huffman, hash-chain LZ77 with lazy matching and an adaptive range-coded arithmetic coder, with a best-of container and entropy-referenced benchmarks. |
 | 2026-10-29 | [Particle Swarm and Differential Evolution Optimizers on Benchmark Functions](particle-swarm-differential-evolution/) | Vectorised PSO (inertia, constriction, ring and von Neumann topologies) and DE (five strategies, jDE adaptation) with a benchmark suite, equal-budget comparison harness and rank-sum test. |
 | 2026-10-28 | [Network Packet Classifier with Trie-Based Firewall Rule Matching](packet-classifier-trie-firewall/) | Linear, hierarchical-trie, tuple-space and HiCuts packet classifiers for five-tuple firewall rules, with shadowing and conflict analysis and lookup benchmarks. |
 | 2026-10-28 | [Bayesian Optimization from Scratch with Gaussian Process Surrogates](bayesian-optimization-gaussian-process/) | Gaussian process regression with ARD Matern/RBF kernels, marginal-likelihood fitting, EI/PI/LCB acquisitions and constant-liar batches, benchmarked against random search. |
