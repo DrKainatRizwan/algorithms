@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-01 | [Self-Balancing BST Comparison: Treap, Splay Tree and Red-Black Tree](self-balancing-bst-comparison/) | Split/merge treap with order statistics, top-down splay tree and invariant-checked red-black tree with comparison and rotation counters on sequential, random, Zipf and working-set workloads. |
 | 2026-11-01 | [Explainable AI Toolkit: SHAP-Style Shapley Values and LIME from Scratch](explainable-ai-shapley-lime/) | Exact, permutation and KernelSHAP Shapley estimators, tabular LIME and integrated gradients with faithfulness and stability metrics. |
 | 2026-10-29 | [Huffman, LZ77 and Arithmetic Coding Compression Suite](huffman-lz77-arithmetic-compression/) | Canonical Huffman, hash-chain LZ77 with lazy matching and an adaptive range-coded arithmetic coder, with a best-of container and entropy-referenced benchmarks. |
 | 2026-10-29 | [Particle Swarm and Differential Evolution Optimizers on Benchmark Functions](particle-swarm-differential-evolution/) | Vectorised PSO (inertia, constriction, ring and von Neumann topologies) and DE (five strategies, jDE adaptation) with a benchmark suite, equal-budget comparison harness and rank-sum test. |
