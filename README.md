@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-02 | [Hidden Markov Models: Forward-Backward, Viterbi and Baum-Welch from Scratch](hidden-markov-forward-viterbi-baum-welch/) | Scaled and log-space forward-backward, Viterbi, posterior decoding, multi-sequence Baum-Welch with restarts, supervised fitting and BIC model selection, validated against brute force. |
 | 2026-11-02 | [Distributed Gossip Protocol and Epidemic Broadcast Simulator](gossip-epidemic-broadcast-simulator/) | Push, pull and push-pull rumor spreading, rumor mongering, push-sum averaging and anti-entropy over several topologies with loss and crashes, checked against mean-field theory. |
 | 2026-11-01 | [Self-Balancing BST Comparison: Treap, Splay Tree and Red-Black Tree](self-balancing-bst-comparison/) | Split/merge treap with order statistics, top-down splay tree and invariant-checked red-black tree with comparison and rotation counters on sequential, random, Zipf and working-set workloads. |
 | 2026-11-01 | [Explainable AI Toolkit: SHAP-Style Shapley Values and LIME from Scratch](explainable-ai-shapley-lime/) | Exact, permutation and KernelSHAP Shapley estimators, tabular LIME and integrated gradients with faithfulness and stability metrics. |
