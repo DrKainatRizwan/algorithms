@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-03 | [Consistent Hashing and Rendezvous Hashing for Distributed Load Balancing](consistent-rendezvous-hashing-load-balancing/) | Virtual-node hash ring, weighted rendezvous, jump hash and Maglev lookup tables with balance, churn and lookup-cost benchmarks. |
 | 2026-11-03 | [Certified Robustness via Randomized Smoothing for Small Classifiers](certified-robustness-randomized-smoothing/) | Gaussian randomized smoothing with Clopper-Pearson certified L2 radii, noise-augmented linear and MLP base models, EOT-PGD sanity attacks and certified-accuracy curves. |
 | 2026-11-02 | [Hidden Markov Models: Forward-Backward, Viterbi and Baum-Welch from Scratch](hidden-markov-forward-viterbi-baum-welch/) | Scaled and log-space forward-backward, Viterbi, posterior decoding, multi-sequence Baum-Welch with restarts, supervised fitting and BIC model selection, validated against brute force. |
 | 2026-11-02 | [Distributed Gossip Protocol and Epidemic Broadcast Simulator](gossip-epidemic-broadcast-simulator/) | Push, pull and push-pull rumor spreading, rumor mongering, push-sum averaging and anti-entropy over several topologies with loss and crashes, checked against mean-field theory. |
