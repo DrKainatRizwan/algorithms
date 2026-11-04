@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-04 | [Post-Quantum Lattice Cryptography Demo: Learning With Errors Encryption](lwe-lattice-post-quantum-encryption/) | Regev LWE and Ring-LWE encryption with a negacyclic NTT, a Fujisaki-Okamoto KEM, and LLL-based primal attacks with heuristic BKZ cost estimates. |
 | 2026-11-04 | [Multi-Agent Reinforcement Learning: Independent Q-Learners in a Cooperative Gridworld](multi-agent-q-learning-gridworld/) | Independent, hysteretic and joint-action Q-learners on cooperative gridworlds with collision resolution, comparing observation models on crossing and corridor-swap tasks. |
 | 2026-11-03 | [Consistent Hashing and Rendezvous Hashing for Distributed Load Balancing](consistent-rendezvous-hashing-load-balancing/) | Virtual-node hash ring, weighted rendezvous, jump hash and Maglev lookup tables with balance, churn and lookup-cost benchmarks. |
 | 2026-11-03 | [Certified Robustness via Randomized Smoothing for Small Classifiers](certified-robustness-randomized-smoothing/) | Gaussian randomized smoothing with Clopper-Pearson certified L2 radii, noise-augmented linear and MLP base models, EOT-PGD sanity attacks and certified-accuracy curves. |
