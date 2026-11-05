@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-05 | [Topological Sort, Critical Path Method and Project Scheduling Engine](topological-sort-critical-path-scheduling/) | Kahn/DFS topological ordering with cycle extraction, CPM floats, PERT with Monte Carlo, and serial/parallel resource-constrained scheduling with six priority rules. |
 | 2026-11-04 | [Post-Quantum Lattice Cryptography Demo: Learning With Errors Encryption](lwe-lattice-post-quantum-encryption/) | Regev LWE and Ring-LWE encryption with a negacyclic NTT, a Fujisaki-Okamoto KEM, and LLL-based primal attacks with heuristic BKZ cost estimates. |
 | 2026-11-04 | [Multi-Agent Reinforcement Learning: Independent Q-Learners in a Cooperative Gridworld](multi-agent-q-learning-gridworld/) | Independent, hysteretic and joint-action Q-learners on cooperative gridworlds with collision resolution, comparing observation models on crossing and corridor-swap tasks. |
 | 2026-11-03 | [Consistent Hashing and Rendezvous Hashing for Distributed Load Balancing](consistent-rendezvous-hashing-load-balancing/) | Virtual-node hash ring, weighted rendezvous, jump hash and Maglev lookup tables with balance, churn and lookup-cost benchmarks. |
