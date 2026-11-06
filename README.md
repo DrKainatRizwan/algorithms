@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-06 | [Backdoor Trigger Detection in Neural Networks via Activation Clustering](backdoor-trigger-activation-clustering/) | Patch-trigger poisoning of a NumPy MLP with activation-clustering and spectral-signature detectors, sanitise-and-retrain defence and attack-success-rate evaluation. |
 | 2026-11-05 | [Kalman Filter and Particle Filter Object Tracking Simulator](kalman-particle-filter-tracking/) | Linear Kalman filter with RTS smoother, EKF, UKF and bootstrap particle filter tracking constant-velocity and maneuvering radar targets with NEES/NIS consistency checks. |
 | 2026-11-05 | [Topological Sort, Critical Path Method and Project Scheduling Engine](topological-sort-critical-path-scheduling/) | Kahn/DFS topological ordering with cycle extraction, CPM floats, PERT with Monte Carlo, and serial/parallel resource-constrained scheduling with six priority rules. |
 | 2026-11-04 | [Post-Quantum Lattice Cryptography Demo: Learning With Errors Encryption](lwe-lattice-post-quantum-encryption/) | Regev LWE and Ring-LWE encryption with a negacyclic NTT, a Fujisaki-Okamoto KEM, and LLL-based primal attacks with heuristic BKZ cost estimates. |
