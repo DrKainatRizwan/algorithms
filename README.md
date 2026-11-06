@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-06 | [Gradient Inversion Attacks and Defences for Federated Learning](gradient-inversion-federated-leakage/) | Analytic and gradient-matching reconstruction of client data from shared gradients with a hand-derived second-order gradient, plus noise, sparsification and quantisation defences. |
 | 2026-11-06 | [Backdoor Trigger Detection in Neural Networks via Activation Clustering](backdoor-trigger-activation-clustering/) | Patch-trigger poisoning of a NumPy MLP with activation-clustering and spectral-signature detectors, sanitise-and-retrain defence and attack-success-rate evaluation. |
 | 2026-11-05 | [Kalman Filter and Particle Filter Object Tracking Simulator](kalman-particle-filter-tracking/) | Linear Kalman filter with RTS smoother, EKF, UKF and bootstrap particle filter tracking constant-velocity and maneuvering radar targets with NEES/NIS consistency checks. |
 | 2026-11-05 | [Topological Sort, Critical Path Method and Project Scheduling Engine](topological-sort-critical-path-scheduling/) | Kahn/DFS topological ordering with cycle extraction, CPM floats, PERT with Monte Carlo, and serial/parallel resource-constrained scheduling with six priority rules. |
