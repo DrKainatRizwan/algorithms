@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-07 | [Dancing Links Exact Cover Solver for Sudoku, Pentominoes and N-Queens](dancing-links-exact-cover-sudoku/) | Array-based Knuth Algorithm X with primary/secondary columns, MRV heuristic, Sudoku solver and unique-puzzle generator, pentomino tilings and N-queens, benchmarked against a dictionary baseline. |
 | 2026-11-07 | [CDCL SAT Solver with a DPLL Baseline and Checkable Proofs](cdcl-sat-solver-dpll/) | Two-watched-literal CDCL with first-UIP learning, VSIDS, restarts and LBD clause deletion against a DPLL baseline, with RUP proof checking on pigeonhole, parity, queens and random k-SAT benchmarks. |
 | 2026-11-06 | [Gradient Inversion Attacks and Defences for Federated Learning](gradient-inversion-federated-leakage/) | Analytic and gradient-matching reconstruction of client data from shared gradients with a hand-derived second-order gradient, plus noise, sparsification and quantisation defences. |
 | 2026-11-06 | [Backdoor Trigger Detection in Neural Networks via Activation Clustering](backdoor-trigger-activation-clustering/) | Patch-trigger poisoning of a NumPy MLP with activation-clustering and spectral-signature detectors, sanitise-and-retrain defence and attack-success-rate evaluation. |
