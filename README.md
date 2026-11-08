@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-08 | [Locality-Sensitive Hashing Toolkit: MinHash, SimHash and Random-Projection Nearest Neighbour Search](locality-sensitive-hashing-minhash-simhash/) | MinHash with optimal banding, exact SimHash Hamming-ball lookup, and hyperplane and p-stable multi-table indexes with recall and candidate-count benchmarks. |
 | 2026-11-08 | [Quasi-Newton Optimisation Suite: BFGS, L-BFGS, Nonlinear CG and Trust-Region Methods](quasi-newton-bfgs-trust-region/) | Dense and limited-memory quasi-Newton, nonlinear conjugate gradient and trust-region Newton optimisers with a strong-Wolfe line search and call-counted benchmarks. |
 | 2026-11-07 | [Dancing Links Exact Cover Solver for Sudoku, Pentominoes and N-Queens](dancing-links-exact-cover-sudoku/) | Array-based Knuth Algorithm X with primary/secondary columns, MRV heuristic, Sudoku solver and unique-puzzle generator, pentomino tilings and N-queens, benchmarked against a dictionary baseline. |
 | 2026-11-07 | [CDCL SAT Solver with a DPLL Baseline and Checkable Proofs](cdcl-sat-solver-dpll/) | Two-watched-literal CDCL with first-UIP learning, VSIDS, restarts and LBD clause deletion against a DPLL baseline, with RUP proof checking on pigeonhole, parity, queens and random k-SAT benchmarks. |
