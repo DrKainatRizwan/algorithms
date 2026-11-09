@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-09 | [Number-Theoretic Cryptanalysis Toolkit: Factoring, Discrete Logarithms and RSA Attacks](number-theoretic-factoring-discrete-log/) | Pollard rho, p-1, quadratic sieve, BSGS, Pohlig-Hellman, index calculus and classic RSA attacks (Wiener, Hastad, shared primes) with timing benchmarks. |
 | 2026-11-09 | [MCMC Sampler Suite: Metropolis-Hastings, MALA, Hamiltonian Monte Carlo and NUTS with Convergence Diagnostics](mcmc-hamiltonian-nuts-diagnostics/) | Random-walk and adaptive Metropolis, MALA, HMC and NUTS with dual-averaging step-size tuning, plus ESS and split R-hat diagnostics benchmarked on ill-conditioned, curved and Bayesian logistic targets. |
 | 2026-11-08 | [Locality-Sensitive Hashing Toolkit: MinHash, SimHash and Random-Projection Nearest Neighbour Search](locality-sensitive-hashing-minhash-simhash/) | MinHash with optimal banding, exact SimHash Hamming-ball lookup, and hyperplane and p-stable multi-table indexes with recall and candidate-count benchmarks. |
 | 2026-11-08 | [Quasi-Newton Optimisation Suite: BFGS, L-BFGS, Nonlinear CG and Trust-Region Methods](quasi-newton-bfgs-trust-region/) | Dense and limited-memory quasi-Newton, nonlinear conjugate gradient and trust-region Newton optimisers with a strong-Wolfe line search and call-counted benchmarks. |
