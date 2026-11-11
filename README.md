@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-11 | [Shor's Algorithm Simulator: Quantum Period Finding, Phase Estimation and Continued Fractions](shor-period-finding-phase-estimation/) | State-vector Shor order finding with gate-level QFT, generic phase estimation, continued-fraction recovery and exact success statistics, validated across full and compressed back-ends. |
 | 2026-11-10 | [Stabilizer Tableau Simulator: Clifford Circuits and Quantum Error-Correcting Codes](stabilizer-tableau-clifford-error-correction/) | Aaronson-Gottesman tableau simulator with Pauli measurement, entanglement entropy and Steane and five-qubit codes, validated against a state-vector reference with noise benchmarks. |
 | 2026-11-10 | [FM-Index and Wavelet Tree for Compressed Full-Text Search with the Burrows-Wheeler Transform](fm-index-wavelet-tree-bwt/) | Suffix array, BWT, rank/select bit vectors, wavelet trees and an FM-index with backward search, sampled locate and extract, benchmarked against naive scanning. |
 | 2026-11-09 | [Number-Theoretic Cryptanalysis Toolkit: Factoring, Discrete Logarithms and RSA Attacks](number-theoretic-factoring-discrete-log/) | Pollard rho, p-1, quadratic sieve, BSGS, Pohlig-Hellman, index calculus and classic RSA attacks (Wiener, Hastad, shared primes) with timing benchmarks. |
