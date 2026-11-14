@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-14 | [Open-Addressing Hash Tables: Cuckoo, Robin Hood and Hopscotch Hashing](cuckoo-robin-hood-hopscotch-hashing/) | Linear probing, Robin Hood, bucketised cuckoo and hopscotch hash tables with four hash families, probe-length load sweeps, hash-quality and churn benchmarks. |
 | 2026-11-14 | [Interior-Point Solver for Linear and Convex Quadratic Programs](interior-point-lp-qp-solver/) | Mehrotra primal-dual and log-barrier interior-point methods for LPs and convex QPs, with free-variable handling, regression, portfolio and SVM applications and scaling benchmarks. |
 | 2026-11-13 | [Graph Matching Toolkit: Hopcroft-Karp, Edmonds' Blossom and Stable Marriage](graph-matching-blossom-hopcroft-karp/) | Hopcroft-Karp, Kuhn, Konig covers, Edmonds' blossom and Gale-Shapley/hospitals-residents, cross-checked against exact solvers with timing benchmarks. |
 | 2026-11-13 | [Garbled Circuits and Oblivious Transfer: Yao's Two-Party Computation from Scratch](garbled-circuits-oblivious-transfer/) | Classic, free-XOR and half-gates garbling with Chou-Orlandi oblivious transfer and a full Yao protocol, with communication-cost benchmarks. |
