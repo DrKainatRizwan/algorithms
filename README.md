@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-15 | [CRDT Toolkit: Vector Clocks, Convergent Data Types and Gossip Anti-Entropy](crdt-vector-clocks-convergence/) | Counters, OR-Set, registers, LWW map and RGA text CRDTs with vector clocks, causal broadcast and a lossy-network gossip simulator measuring convergence. |
 | 2026-11-15 | [Reed-Solomon and BCH Codes with Berlekamp-Massey Decoding](reed-solomon-bch-berlekamp-massey/) | Systematic Reed-Solomon and binary BCH codes over GF(2^m) with errors-and-erasures decoding via Berlekamp-Massey, Chien and Forney, a PGZ cross-check, interleaving and Monte-Carlo benchmarks. |
 | 2026-11-14 | [Open-Addressing Hash Tables: Cuckoo, Robin Hood and Hopscotch Hashing](cuckoo-robin-hood-hopscotch-hashing/) | Linear probing, Robin Hood, bucketised cuckoo and hopscotch hash tables with four hash families, probe-length load sweeps, hash-quality and churn benchmarks. |
 | 2026-11-14 | [Interior-Point Solver for Linear and Convex Quadratic Programs](interior-point-lp-qp-solver/) | Mehrotra primal-dual and log-barrier interior-point methods for LPs and convex QPs, with free-variable handling, regression, portfolio and SVM applications and scaling benchmarks. |
