@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-17 | [Optimal Transport Toolkit: Exact Solver, Sinkhorn, Sliced Wasserstein and Barycenters](optimal-transport-sinkhorn-wasserstein/) | Exact min-cost-flow transport, log-domain Sinkhorn with epsilon-scaling and divergences, 1-D and sliced Wasserstein and entropic barycenters, benchmarked against the exact solution. |
 | 2026-11-17 | [Road-Network Shortest Paths: Bidirectional Dijkstra, ALT Landmarks and Contraction Hierarchies](contraction-hierarchies-alt-shortest-paths/) | Dijkstra, bidirectional Dijkstra, ALT landmark A* and contraction hierarchies with witness searches and path unpacking, benchmarked on synthetic road networks. |
 | 2026-11-16 | [Zero-Knowledge Sigma Protocols: Schnorr, Chaum-Pedersen, OR-Proofs and Pedersen Range Proofs](zero-knowledge-schnorr-sigma-protocols/) | Generic linear-relation sigma protocols with extractor and simulator, Fiat-Shamir, OR-composition, Pedersen range proofs and Schnorr signatures with batch verification and attack demos. |
 | 2026-11-16 | [Sparse Krylov Solvers: Conjugate Gradient, GMRES and BiCGSTAB with Incomplete-Factorisation Preconditioners](conjugate-gradient-gmres-preconditioners/) | CSR-based CG, restarted GMRES and BiCGSTAB with Jacobi, SSOR, IC(0) and ILU(0) preconditioners, benchmarked on Poisson and convection-diffusion problems. |
