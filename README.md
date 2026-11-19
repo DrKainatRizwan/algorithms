@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-19 | [Differential and Linear Cryptanalysis of a Substitution-Permutation Network](spn-differential-linear-cryptanalysis/) | Builds a 16-bit SPN cipher, searches best differential characteristics and linear trails with branch and bound, and recovers last-round subkeys with measured success-rate curves. |
 | 2026-11-18 | [Stable Matching Toolkit: Gale-Shapley, Hospitals/Residents, Irving's Roommates and the Rotation Lattice](stable-matching-gale-shapley-roommates/) | Deferred acceptance, hospitals/residents, Irving's stable roommates and rotation-based enumeration of all stable matchings with brute-force verification and Monte-Carlo benchmarks. |
 | 2026-11-18 | [Kernel SVM with SMO and Evasion Attacks: Platt's Solver, Multiclass Wrappers and DeepFool/PGD](smo-svm-kernel-evasion-attacks/) | Platt's SMO solver for kernel SVMs with multiclass wrappers, grid search and DeepFool/PGD evasion attacks using analytic kernel gradients. |
 | 2026-11-17 | [Optimal Transport Toolkit: Exact Solver, Sinkhorn, Sliced Wasserstein and Barycenters](optimal-transport-sinkhorn-wasserstein/) | Exact min-cost-flow transport, log-domain Sinkhorn with epsilon-scaling and divergences, 1-D and sliced Wasserstein and entropic barycenters, benchmarked against the exact solution. |
