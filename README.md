@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-19 | [Side-Channel Power Analysis of AES: DPA, CPA and Boolean Masking](side-channel-power-analysis-aes/) | Side-channel attacks on a from-scratch AES-128: difference-of-means DPA, CPA and second-order CPA against Boolean masking, with success-rate and key-rank benchmarks. |
 | 2026-11-19 | [Differential and Linear Cryptanalysis of a Substitution-Permutation Network](spn-differential-linear-cryptanalysis/) | Builds a 16-bit SPN cipher, searches best differential characteristics and linear trails with branch and bound, and recovers last-round subkeys with measured success-rate curves. |
 | 2026-11-18 | [Stable Matching Toolkit: Gale-Shapley, Hospitals/Residents, Irving's Roommates and the Rotation Lattice](stable-matching-gale-shapley-roommates/) | Deferred acceptance, hospitals/residents, Irving's stable roommates and rotation-based enumeration of all stable matchings with brute-force verification and Monte-Carlo benchmarks. |
 | 2026-11-18 | [Kernel SVM with SMO and Evasion Attacks: Platt's Solver, Multiclass Wrappers and DeepFool/PGD](smo-svm-kernel-evasion-attacks/) | Platt's SMO solver for kernel SVMs with multiclass wrappers, grid search and DeepFool/PGD evasion attacks using analytic kernel gradients. |
