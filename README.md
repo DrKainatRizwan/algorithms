@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-21 | [Hierarchical Navigable Small World (HNSW) Graphs for Approximate Nearest-Neighbour Search](hnsw-approximate-nearest-neighbor-search/) | HNSW graph index with heuristic neighbour selection, deletion and persistence, compared with flat NSW and exact search on recall and distance evaluations. |
 | 2026-11-20 | [Global Minimum Cut: Stoer-Wagner, Karger, Karger-Stein and Gomory-Hu Trees](global-min-cut-karger-stein-stoer-wagner/) | Stoer-Wagner (dense and heap), Karger contraction, Karger-Stein recursion and Gomory-Hu cut trees with brute-force validation and timing benchmarks. |
 | 2026-11-20 | [CMA-ES and Natural Evolution Strategies for Black-Box Optimisation](cma-es-natural-evolution-strategies/) | Ask/tell CMA-ES, xNES, SNES, (1+1)-ES, cross-entropy method and IPOP restarts benchmarked on ill-conditioned, rotated and multimodal test functions. |
 | 2026-11-19 | [Side-Channel Power Analysis of AES: DPA, CPA and Boolean Masking](side-channel-power-analysis-aes/) | Side-channel attacks on a from-scratch AES-128: difference-of-means DPA, CPA and second-order CPA against Boolean masking, with success-rate and key-rank benchmarks. |
