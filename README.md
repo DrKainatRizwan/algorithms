@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-24 | [Online Convex Optimisation: Regret Minimisation with OGD, FTRL, Hedge, AdaGrad and Online Newton Step](online-convex-optimization-regret/) | Online gradient descent, FTL, FTRL, Hedge/EG/FPL, AdaGrad and Online Newton Step with exact comparators, regret bounds and growth-exponent benchmarks. |
 | 2026-11-23 | [Time-Memory Trade-Off Cryptanalysis: Hellman, Distinguished-Point and Rainbow Tables](time-memory-tradeoff-rainbow-tables/) | Hellman tables, distinguished-point chains and rainbow tables on a random-function model, with coverage theory, false-alarm counts and success/memory/online-cost benchmarks. |
 | 2026-11-22 | [Randomized Numerical Linear Algebra: Sketching, Randomized SVD, CUR and Hutch++ Trace Estimation](randomized-svd-sketching-cur-hutchinson/) | Gaussian, SRHT and CountSketch embeddings, randomized and single-pass SVD, CUR/interpolative decompositions, sketch-preconditioned least squares and Hutch++ with accuracy benchmarks. |
 | 2026-11-22 | [LFSR Stream Cipher Cryptanalysis: Correlation, Fast Correlation and Algebraic Attacks](lfsr-stream-cipher-correlation-attacks/) | Berlekamp-Massey, Walsh-Hadamard correlation attacks, a fast correlation attack on a 31-bit LFSR and algebraic attacks on Geffe, threshold and filter generators with success-rate benchmarks. |
