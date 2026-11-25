@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-25 | [PRNG State Recovery and Statistical Tests: Mersenne Twister, xorshift128+ and LCG Attacks](prng-state-recovery-statistical-tests/) | Mersenne Twister cloning, rewinding and seed recovery, GF(2) state recovery for xorshift128+, LCG and java.util.Random attacks, plus a NIST-style statistical battery. |
 | 2026-11-25 | [Proximal Methods for Sparse Optimisation: ISTA, FISTA, Coordinate Descent and ADMM](proximal-ista-fista-admm-lasso/) | Proximal gradient (ISTA/FISTA with restart), elastic-net coordinate descent, generalised-lasso ADMM and group lasso with KKT certificates, regularisation paths and benchmarks. |
 | 2026-11-24 | [LLL Lattice Reduction, BKZ and Knapsack/LCG Attacks](lll-lattice-reduction-knapsack-attacks/) | Exact integral LLL, BKZ with enumeration, SVP/CVP and Babai, applied to low-density knapsacks, integer relations and truncated-LCG state recovery. |
 | 2026-11-24 | [Mixed-Integer Programming: Branch-and-Bound with Gomory and Cover Cuts](integer-programming-branch-and-cut/) | Dense simplex with tableau access, Gomory mixed-integer and cover cuts, and branch-and-bound with several branching rules, validated against brute force on knapsack, assignment and facility-location models. |
