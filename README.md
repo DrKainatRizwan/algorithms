@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-27 | [Counterfactual Regret Minimisation for Kuhn and Leduc Poker: CFR, CFR+, DCFR and Monte-Carlo Sampling](cfr-kuhn-leduc-poker-equilibrium/) | Vectorised CFR, CFR+, linear and discounted CFR plus external/outcome-sampling MCCFR on Kuhn and Leduc poker, validated by exact best responses and the analytic Kuhn equilibrium family. |
 | 2026-11-26 | [Local Differential Privacy Frequency Estimation: Randomized Response, RAPPOR, OLH and Hadamard Response](local-differential-privacy-frequency-estimation/) | Local-DP frequency oracles (GRR, OUE, OLH, Hadamard response, RAPPOR) with exact privacy audits, simplex post-processing and prefix-tree heavy-hitter discovery, benchmarked across domain sizes. |
 | 2026-11-26 | [Dyna-Q, Dyna-Q+ and Prioritized Sweeping: Model-Based Reinforcement Learning with Planning](dyna-q-prioritized-sweeping-planning/) | Tabular Q-learning, Dyna-Q, Dyna-Q+ and prioritized sweeping on gridworlds with learned models, checked against exact value and policy iteration, with blocking-maze adaptation benchmarks. |
 | 2026-11-25 | [PRNG State Recovery and Statistical Tests: Mersenne Twister, xorshift128+ and LCG Attacks](prng-state-recovery-statistical-tests/) | Mersenne Twister cloning, rewinding and seed recovery, GF(2) state recovery for xorshift128+, LCG and java.util.Random attacks, plus a NIST-style statistical battery. |
