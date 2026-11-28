@@ -9,6 +9,7 @@ A collection of from-scratch implementations of algorithms in optimisation, adve
 <!-- PROJECTS:START -->
 | Date | Project | Description |
 |------|---------|-------------|
+| 2026-11-28 | [Kademlia DHT Simulator: XOR Routing, Iterative Lookup and Churn](kademlia-dht-xor-routing/) | Kademlia peer-to-peer simulator with XOR k-buckets, iterative parallel lookups, replication and churn experiments showing logarithmic lookup cost. |
 | 2026-11-27 | [Private Set Intersection and Private Information Retrieval: Diffie-Hellman PSI, XOR/Cube PIR and Paillier PIR](private-set-intersection-pir-protocols/) | Diffie-Hellman and Bloom-filter PSI with a dictionary attack on naive hashing, plus XOR, cube and Paillier PIR with exact privacy audits and communication benchmarks. |
 | 2026-11-27 | [Counterfactual Regret Minimisation for Kuhn and Leduc Poker: CFR, CFR+, DCFR and Monte-Carlo Sampling](cfr-kuhn-leduc-poker-equilibrium/) | Vectorised CFR, CFR+, linear and discounted CFR plus external/outcome-sampling MCCFR on Kuhn and Leduc poker, validated by exact best responses and the analytic Kuhn equilibrium family. |
 | 2026-11-26 | [Local Differential Privacy Frequency Estimation: Randomized Response, RAPPOR, OLH and Hadamard Response](local-differential-privacy-frequency-estimation/) | Local-DP frequency oracles (GRR, OUE, OLH, Hadamard response, RAPPOR) with exact privacy audits, simplex post-processing and prefix-tree heavy-hitter discovery, benchmarked across domain sizes. |
